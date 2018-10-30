@@ -8,5 +8,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="/Users/anahisalgado/eclipse-workspace/AmazonViewer/libs/makefile.jar"/>
 	<classpathentry kind="lib" path="/Users/edwingiovanniperezrobles/eclipse-workspace/AmazonViewer/libs/Untitled.jar"/>
+	<classpathentry kind="lib" path="/Users/edwingiovanniperezrobles/eclipse-workspace/AmazonViewer/libs/makefile.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
